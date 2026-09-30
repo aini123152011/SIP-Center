@@ -1,0 +1,4 @@
+{"file": ".trellis/tasks/09-30-cloud-call-center/research.md", "reason": "开源选型调研结论（JeecgBoot/Jambonz/FunASR/授权红线），实现期选型与合规依据"}
+{"file": ".trellis/spec/backend/index.md", "reason": "后端编码规范索引（当前为模板，M1 首周内应完成 spec bootstrap 后更新此清单）"}
+{"file": ".trellis/spec/frontend/index.md", "reason": "前端（Vue3/TS/AntdV）编码规范索引（模板态，同上）"}
+{"file": ".trellis/tasks/09-30-cloud-call-center/requirements.md", "reason": "功能需求细化：角色权限/坐席状态机/外呼规则参数/AI流水线/业务域字段级需求与默认值，实现与检查的需求基线"}
